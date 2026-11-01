@@ -453,6 +453,10 @@
    "dai": "郭公"
   }
  ],
+ "translation": {
+  "count": 8,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-chosho-sumodachi-shiika",
   "work": "長承二年相撲立詩歌",
@@ -465,7 +469,7 @@
   "blocks": 8,
   "chars": 1554,
   "poems": 20,
-  "yaku": 0,
+  "yaku": 8,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T00:09:37+09:00"
